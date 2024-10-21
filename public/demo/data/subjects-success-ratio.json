@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "subject": "Friendship",
+            "successRatio": "26"
+        },
+        {
+            "id": 2,
+            "subject": "Teen Life",
+            "successRatio": "50"
+        },
+        {
+            "id": 3,
+            "subject": "In The Kitchen",
+            "successRatio": "75"
+        },
+        {
+            "id": 4,
+            "subject": "On The Phone",
+            "successRatio": "100"
+        },
+        {
+            "id": 5,
+            "subject": "The Internet",
+            "successRatio": "26"
+        },
+        {
+            "id": 6,
+            "subject": "Adventures",
+            "successRatio": "26"
+        }
+    ]
+}

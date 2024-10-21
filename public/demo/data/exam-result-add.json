@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "publisher": "OkulPedia",
+            "examName": "10.Deneme",
+            "resultDate": "12.12.2024",
+            "classes": [
+                {
+                    "id": 1,
+                    "class": "Matematik"
+                },
+                {
+                    "id": 2,
+                    "class": "Türkçe"
+                },
+                {
+                    "id": 3,
+                    "class": "Fen"
+                },
+                {
+                    "id": 41,
+                    "class": "İnkilap"
+                },
+                {
+                    "id": 5,
+                    "class": "İngilizce"
+                },
+                {
+                    "id": 6,
+                    "class": "Din"
+                }
+            ]
+        }
+    ]
+}

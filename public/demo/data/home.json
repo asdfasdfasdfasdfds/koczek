@@ -1,0 +1,28 @@
+{
+    "studentList": [
+        {
+            "id": 1,
+            "row": 142,
+            "name": "Betül",
+            "point": "300"
+        },
+        {
+            "id": 2,
+            "row": 233,
+            "name": "Emre",
+            "point": "280"
+        },
+        {
+            "id": 3,
+            "row": 122,
+            "name": "Fatih",
+            "point": "260"
+        },
+        {
+            "id": 4,
+            "row": 145,
+            "name": "Betül",
+            "point": "220"
+        }
+    ]
+}

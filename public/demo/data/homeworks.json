@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Matematik Ödevi",
+      "class": "8/A",
+      "detail": "Ders kitabından 25 ile 30. sayfa arasındaki alıştırmaları tamamlayın.",
+      "startDate": "01-05-2024",
+      "endDate": "05-05-2024"
+    },
+    {
+      "id": 2,
+      "name": "Tarih Ödevi",
+      "class": "8/A",
+
+      "detail": "II. Dünya Savaşı'nın nedenleri ve sonuçları hakkında 2 sayfalık bir makale yazın.",
+      "startDate": "02-05-2024",
+      "endDate": "06-05-2024"
+    },
+    {
+      "id": 3,
+      "name": "Fen Projesi",
+      "class": "8/A",
+
+      "detail": "Basit bir devre kurun ve nasıl çalıştığını açıklayın.",
+      "startDate": "03-05-2024",
+      "endDate": "07-05-2024"
+    }
+  ]
+}

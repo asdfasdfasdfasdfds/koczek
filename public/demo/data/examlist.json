@@ -1,0 +1,15 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "row": 1,
+            "name": "Betül",
+            "number": "611",
+            "class": "8/D",
+            "correct": "10",
+            "false": "0",
+            "total": "10",
+            "point": "300"
+        }
+    ]
+}

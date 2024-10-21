@@ -1,0 +1,63 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "lesson": "Matematik",
+            "subject": "Çarpanlar ve Katlar",
+            "name": "Emre",
+            "class": "8/D",
+            "successRatio": "26",
+            "progress": "26.00%"
+        },
+        {
+            "id": 2,
+            "lesson": "Türkçe",
+            "subject": "Çarpanlar ve Katlar",
+            "name": "Emre",
+            "class": "8/D",
+            "successRatio": "50",
+            "progress": "26.00%"
+
+        },
+        {
+            "id": 3,
+            "lesson": "Fen",
+            "subject": "Çarpanlar ve Katlar",
+            "name": "Emre",
+            "class": "8/D",
+            "successRatio": "75",
+            "progress": "26.00%"
+
+        },
+        {
+            "id": 4,
+            "lesson": "İngilizce",
+            "subject": "Çarpanlar ve Katlar",
+            "name": "Emre",
+            "class": "8/D",
+            "successRatio": "100",
+            "progress": "26.00%"
+
+        },
+        {
+            "id": 5,
+            "lesson": "İnkilap",
+            "subject": "Çarpanlar ve Katlar",
+            "name": "Emre",
+            "class": "8/D",
+            "successRatio": "26",
+            "progress": "26.00%"
+
+        },
+        {
+            "id": 6,
+            "lesson": "Din",
+            "subject": "Çarpanlar ve Katlar",
+            "name": "Emre",
+            "class": "8/D",
+            "successRatio": "26",
+            "progress": "26.00%"
+
+        }
+    ]
+}

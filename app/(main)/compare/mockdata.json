@@ -1,0 +1,918 @@
+{
+    "message": "OK",
+    "results": [
+        {
+            "_id": "670ada71b16b4c25835039f0",
+            "level": 8,
+            "name": "A",
+            "quizes": [
+                {
+                    "_id": "670c3d59f8171777554b2f22",
+                    "name": "İlk Adım - 1",
+                    "avgPoint": 363.97,
+                    "lessons": {
+                        "matematik": {
+                            "true": 9.95,
+                            "false": 5.63,
+                            "pass": 4.42,
+                            "net": 8.07,
+                            "rate": 40.35,
+                            "subjects": [
+                                {
+                                    "name": "Çarpanlar ve Katlar",
+                                    "true": 9.95,
+                                    "false": 5.63,
+                                    "pass": 4.42,
+                                    "net": 0,
+                                    "rate": 0,
+                                    "students": [
+                                        {
+                                            "name": "ESLEM REYNA AYSUNA",
+                                            "schoolNumber": 530,
+                                            "true": 11,
+                                            "false": 6,
+                                            "pass": 3,
+                                            "net": 0,
+                                            "rate": 0
+                                        },
+                                        {
+                                            "name": "BERRA HAM�TO�LU",
+                                            "schoolNumber": 518,
+                                            "true": 15,
+                                            "false": 2,
+                                            "pass": 3,
+                                            "net": 0,
+                                            "rate": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "turkce": {
+                            "true": 15.11,
+                            "false": 4.16,
+                            "pass": 0.74,
+                            "net": 13.72,
+                            "rate": 68.59,
+                            "subjects": [
+                                {
+                                    "name": "Sözcükte Anlam",
+                                    "true": 2.79,
+                                    "false": 1.05,
+                                    "pass": 0.16,
+                                    "net": 0,
+                                    "rate": 0,
+                                    "students": [
+                                        {
+                                            "name": "ESLEM REYNA AYSUNA",
+                                            "schoolNumber": 530,
+                                            "true": 2,
+                                            "false": 2,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        },
+                                        {
+                                            "name": "BERRA HAM�TO�LU",
+                                            "schoolNumber": 518,
+                                            "true": 2,
+                                            "false": 2,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Cümlenin Öğeleri",
+                                    "true": 0.95,
+                                    "false": 0.05,
+                                    "pass": 0,
+                                    "net": 0,
+                                    "rate": 0,
+                                    "students": [
+                                        {
+                                            "name": "ESLEM REYNA AYSUNA",
+                                            "schoolNumber": 530,
+                                            "true": 1,
+                                            "false": 0,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        },
+                                        {
+                                            "name": "BERRA HAM�TO�LU",
+                                            "schoolNumber": 518,
+                                            "true": 1,
+                                            "false": 0,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Görsel Okuma",
+                                    "true": 6.74,
+                                    "false": 2.05,
+                                    "pass": 0.21,
+                                    "net": 0,
+                                    "rate": 0,
+                                    "students": [
+                                        {
+                                            "name": "ESLEM REYNA AYSUNA",
+                                            "schoolNumber": 530,
+                                            "true": 8,
+                                            "false": 1,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        },
+                                        {
+                                            "name": "BERRA HAM�TO�LU",
+                                            "schoolNumber": 518,
+                                            "true": 7,
+                                            "false": 2,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Parçada Anlam",
+                                    "true": 2.53,
+                                    "false": 0.26,
+                                    "pass": 0.21,
+                                    "net": 0,
+                                    "rate": 0,
+                                    "students": [
+                                        {
+                                            "name": "ESLEM REYNA AYSUNA",
+                                            "schoolNumber": 530,
+                                            "true": 3,
+                                            "false": 0,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        },
+                                        {
+                                            "name": "BERRA HAM�TO�LU",
+                                            "schoolNumber": 518,
+                                            "true": 3,
+                                            "false": 0,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Söz Gruplarında Anlam",
+                                    "true": 1.47,
+                                    "false": 0.42,
+                                    "pass": 0.11,
+                                    "net": 0,
+                                    "rate": 0,
+                                    "students": [
+                                        {
+                                            "name": "ESLEM REYNA AYSUNA",
+                                            "schoolNumber": 530,
+                                            "true": 2,
+                                            "false": 0,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        },
+                                        {
+                                            "name": "BERRA HAM�TO�LU",
+                                            "schoolNumber": 518,
+                                            "true": 1,
+                                            "false": 1,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Noktalama İşaretleri",
+                                    "true": 0.63,
+                                    "false": 0.32,
+                                    "pass": 0.05,
+                                    "net": 0,
+                                    "rate": 0,
+                                    "students": [
+                                        {
+                                            "name": "ESLEM REYNA AYSUNA",
+                                            "schoolNumber": 530,
+                                            "true": 1,
+                                            "false": 0,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        },
+                                        {
+                                            "name": "BERRA HAM�TO�LU",
+                                            "schoolNumber": 518,
+                                            "true": 1,
+                                            "false": 0,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "fen": {
+                            "true": 11.05,
+                            "false": 5.37,
+                            "pass": 3.58,
+                            "net": 9.26,
+                            "rate": 46.32,
+                            "subjects": [
+                                {
+                                    "name": "Mevsimlerin Oluşumu",
+                                    "true": 2.74,
+                                    "false": 0.58,
+                                    "pass": 0.68,
+                                    "net": 0,
+                                    "rate": 0,
+                                    "students": [
+                                        {
+                                            "name": "ESLEM REYNA AYSUNA",
+                                            "schoolNumber": 530,
+                                            "true": 3,
+                                            "false": 0,
+                                            "pass": 1,
+                                            "net": 0,
+                                            "rate": 0
+                                        },
+                                        {
+                                            "name": "BERRA HAM�TO�LU",
+                                            "schoolNumber": 518,
+                                            "true": 2,
+                                            "false": 1,
+                                            "pass": 1,
+                                            "net": 0,
+                                            "rate": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "İklim ve Hava Hareketleri",
+                                    "true": 2.63,
+                                    "false": 0.95,
+                                    "pass": 0.42,
+                                    "net": 0,
+                                    "rate": 0,
+                                    "students": [
+                                        {
+                                            "name": "ESLEM REYNA AYSUNA",
+                                            "schoolNumber": 530,
+                                            "true": 2,
+                                            "false": 1,
+                                            "pass": 1,
+                                            "net": 0,
+                                            "rate": 0
+                                        },
+                                        {
+                                            "name": "BERRA HAM�TO�LU",
+                                            "schoolNumber": 518,
+                                            "true": 4,
+                                            "false": 0,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Kalıtım",
+                                    "true": 0.21,
+                                    "false": 0.26,
+                                    "pass": 0.53,
+                                    "net": 0,
+                                    "rate": 0,
+                                    "students": [
+                                        {
+                                            "name": "ESLEM REYNA AYSUNA",
+                                            "schoolNumber": 530,
+                                            "true": 0,
+                                            "false": 1,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        },
+                                        {
+                                            "name": "BERRA HAM�TO�LU",
+                                            "schoolNumber": 518,
+                                            "true": 1,
+                                            "false": 0,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "DNA ve Genetik Kod",
+                                    "true": 5,
+                                    "false": 3.26,
+                                    "pass": 1.74,
+                                    "net": 0,
+                                    "rate": 0,
+                                    "students": [
+                                        {
+                                            "name": "ESLEM REYNA AYSUNA",
+                                            "schoolNumber": 530,
+                                            "true": 6,
+                                            "false": 4,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        },
+                                        {
+                                            "name": "BERRA HAM�TO�LU",
+                                            "schoolNumber": 518,
+                                            "true": 6,
+                                            "false": 4,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Mutasyon ve Modifikasyon Adaptasyon (Çevreye Uyum)",
+                                    "true": 0.47,
+                                    "false": 0.32,
+                                    "pass": 0.21,
+                                    "net": 0,
+                                    "rate": 0,
+                                    "students": [
+                                        {
+                                            "name": "ESLEM REYNA AYSUNA",
+                                            "schoolNumber": 530,
+                                            "true": 1,
+                                            "false": 0,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        },
+                                        {
+                                            "name": "BERRA HAM�TO�LU",
+                                            "schoolNumber": 518,
+                                            "true": 1,
+                                            "false": 0,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "ingilizce": {
+                            "true": 6.32,
+                            "false": 3.11,
+                            "pass": 0.58,
+                            "net": 5.3,
+                            "rate": 52.98,
+                            "subjects": [
+                                {
+                                    "name": "Friendship",
+                                    "true": 3,
+                                    "false": 1.63,
+                                    "pass": 0.37,
+                                    "net": 0,
+                                    "rate": 0,
+                                    "students": [
+                                        {
+                                            "name": "ESLEM REYNA AYSUNA",
+                                            "schoolNumber": 530,
+                                            "true": 5,
+                                            "false": 0,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        },
+                                        {
+                                            "name": "BERRA HAM�TO�LU",
+                                            "schoolNumber": 518,
+                                            "true": 4,
+                                            "false": 1,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Adventures",
+                                    "true": 0.42,
+                                    "false": 0.58,
+                                    "pass": 0,
+                                    "net": 0,
+                                    "rate": 0,
+                                    "students": [
+                                        {
+                                            "name": "ESLEM REYNA AYSUNA",
+                                            "schoolNumber": 530,
+                                            "true": 1,
+                                            "false": 0,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        },
+                                        {
+                                            "name": "BERRA HAM�TO�LU",
+                                            "schoolNumber": 518,
+                                            "true": 1,
+                                            "false": 0,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Teen Life",
+                                    "true": 2.16,
+                                    "false": 0.63,
+                                    "pass": 0.21,
+                                    "net": 0,
+                                    "rate": 0,
+                                    "students": [
+                                        {
+                                            "name": "ESLEM REYNA AYSUNA",
+                                            "schoolNumber": 530,
+                                            "true": 3,
+                                            "false": 0,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        },
+                                        {
+                                            "name": "BERRA HAM�TO�LU",
+                                            "schoolNumber": 518,
+                                            "true": 2,
+                                            "false": 1,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "The Internet",
+                                    "true": 0.74,
+                                    "false": 0.26,
+                                    "pass": 0,
+                                    "net": 0,
+                                    "rate": 0,
+                                    "students": [
+                                        {
+                                            "name": "ESLEM REYNA AYSUNA",
+                                            "schoolNumber": 530,
+                                            "true": 1,
+                                            "false": 0,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        },
+                                        {
+                                            "name": "BERRA HAM�TO�LU",
+                                            "schoolNumber": 518,
+                                            "true": 1,
+                                            "false": 0,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "inkilap": {
+                            "true": 8.84,
+                            "false": 1.16,
+                            "pass": 0,
+                            "net": 8.46,
+                            "rate": 84.57,
+                            "subjects": [
+                                {
+                                    "name": "Osmanlı Devleti'nin 20. Yüzyıl Başlarındaki Durumu",
+                                    "true": 3.68,
+                                    "false": 0.32,
+                                    "pass": 0,
+                                    "net": 0,
+                                    "rate": 0,
+                                    "students": [
+                                        {
+                                            "name": "ESLEM REYNA AYSUNA",
+                                            "schoolNumber": 530,
+                                            "true": 4,
+                                            "false": 0,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        },
+                                        {
+                                            "name": "BERRA HAM�TO�LU",
+                                            "schoolNumber": 518,
+                                            "true": 3,
+                                            "false": 1,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Mustafa Kemal'in Hayatı",
+                                    "true": 3.37,
+                                    "false": 0.63,
+                                    "pass": 0,
+                                    "net": 0,
+                                    "rate": 0,
+                                    "students": [
+                                        {
+                                            "name": "ESLEM REYNA AYSUNA",
+                                            "schoolNumber": 530,
+                                            "true": 4,
+                                            "false": 0,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        },
+                                        {
+                                            "name": "BERRA HAM�TO�LU",
+                                            "schoolNumber": 518,
+                                            "true": 4,
+                                            "false": 0,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Sakarya Meydan Savaşı ve Büyük Taarruz: Mustafa Kemal'in Rolü",
+                                    "true": 1.79,
+                                    "false": 0.21,
+                                    "pass": 0,
+                                    "net": 0,
+                                    "rate": 0,
+                                    "students": [
+                                        {
+                                            "name": "ESLEM REYNA AYSUNA",
+                                            "schoolNumber": 530,
+                                            "true": 2,
+                                            "false": 0,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        },
+                                        {
+                                            "name": "BERRA HAM�TO�LU",
+                                            "schoolNumber": 518,
+                                            "true": 1,
+                                            "false": 1,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "din": {
+                            "true": 8.16,
+                            "false": 1.68,
+                            "pass": 0.16,
+                            "net": 7.6,
+                            "rate": 75.97,
+                            "subjects": [
+                                {
+                                    "name": "Kader ve Kaza Kavramı",
+                                    "true": 8.16,
+                                    "false": 1.68,
+                                    "pass": 0.16,
+                                    "net": 0,
+                                    "rate": 0,
+                                    "students": [
+                                        {
+                                            "name": "ESLEM REYNA AYSUNA",
+                                            "schoolNumber": 530,
+                                            "true": 10,
+                                            "false": 0,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        },
+                                        {
+                                            "name": "BERRA HAM�TO�LU",
+                                            "schoolNumber": 518,
+                                            "true": 10,
+                                            "false": 0,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "_id": "670c3d3ef8171777554b2967",
+                    "name": "Siha - 1",
+                    "avgPoint": 216.3,
+                    "lessons": {
+                        "matematik": {
+                            "true": 0.65,
+                            "false": 8.61,
+                            "pass": 0.74,
+                            "net": 0.06,
+                            "rate": 0.28,
+                            "subjects": [
+                                {
+                                    "name": "Çarpanlar ve Katlar",
+                                    "true": 0.65,
+                                    "false": 8.61,
+                                    "pass": 0.74,
+                                    "net": 0,
+                                    "rate": 0,
+                                    "students": [
+                                        {
+                                            "name": "ASEL �ZT�RK",
+                                            "schoolNumber": 169,
+                                            "true": 0,
+                                            "false": 10,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        },
+                                        {
+                                            "name": "EL�F METE",
+                                            "schoolNumber": 49,
+                                            "true": 2,
+                                            "false": 8,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "turkce": {
+                            "true": 3.87,
+                            "false": 6.13,
+                            "pass": 0,
+                            "net": 1.83,
+                            "rate": 18.27,
+                            "subjects": [
+                                {
+                                    "name": "Görsel Okuma",
+                                    "true": 2.7,
+                                    "false": 2.3,
+                                    "pass": 0,
+                                    "net": 0,
+                                    "rate": 0,
+                                    "students": [
+                                        {
+                                            "name": "ASEL �ZT�RK",
+                                            "schoolNumber": 169,
+                                            "true": 1,
+                                            "false": 4,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        },
+                                        {
+                                            "name": "EL�F METE",
+                                            "schoolNumber": 49,
+                                            "true": 3,
+                                            "false": 2,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Fiilimsiler",
+                                    "true": 1.17,
+                                    "false": 3.83,
+                                    "pass": 0,
+                                    "net": 0,
+                                    "rate": 0,
+                                    "students": [
+                                        {
+                                            "name": "ASEL �ZT�RK",
+                                            "schoolNumber": 169,
+                                            "true": 3,
+                                            "false": 2,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        },
+                                        {
+                                            "name": "EL�F METE",
+                                            "schoolNumber": 49,
+                                            "true": 1,
+                                            "false": 4,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "fen": {
+                            "true": 1.17,
+                            "false": 8.09,
+                            "pass": 0.74,
+                            "net": 0.2,
+                            "rate": 1.5,
+                            "subjects": [
+                                {
+                                    "name": "Mevsimlerin Oluşumu",
+                                    "true": 1.17,
+                                    "false": 8.09,
+                                    "pass": 0.74,
+                                    "net": 0,
+                                    "rate": 0,
+                                    "students": [
+                                        {
+                                            "name": "ASEL �ZT�RK",
+                                            "schoolNumber": 169,
+                                            "true": 5,
+                                            "false": 5,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        },
+                                        {
+                                            "name": "EL�F METE",
+                                            "schoolNumber": 49,
+                                            "true": 1,
+                                            "false": 9,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "ingilizce": {
+                            "true": 1.3,
+                            "false": 8.61,
+                            "pass": 0.09,
+                            "net": 0,
+                            "rate": 0,
+                            "subjects": [
+                                {
+                                    "name": "Friendship",
+                                    "true": 1.3,
+                                    "false": 8.61,
+                                    "pass": 0.09,
+                                    "net": 0,
+                                    "rate": 0,
+                                    "students": [
+                                        {
+                                            "name": "ASEL �ZT�RK",
+                                            "schoolNumber": 169,
+                                            "true": 1,
+                                            "false": 9,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        },
+                                        {
+                                            "name": "EL�F METE",
+                                            "schoolNumber": 49,
+                                            "true": 2,
+                                            "false": 8,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "inkilap": {
+                            "true": 3.74,
+                            "false": 6.26,
+                            "pass": 0,
+                            "net": 1.71,
+                            "rate": 17.11,
+                            "subjects": [
+                                {
+                                    "name": "Osmanlı Devleti'nin 20. Yüzyıl Başlarındaki Durumu",
+                                    "true": 1.83,
+                                    "false": 3.17,
+                                    "pass": 0,
+                                    "net": 0,
+                                    "rate": 0,
+                                    "students": [
+                                        {
+                                            "name": "ASEL �ZT�RK",
+                                            "schoolNumber": 169,
+                                            "true": 0,
+                                            "false": 5,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        },
+                                        {
+                                            "name": "EL�F METE",
+                                            "schoolNumber": 49,
+                                            "true": 2,
+                                            "false": 3,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Mustafa Kemal'in Hayatı",
+                                    "true": 1.91,
+                                    "false": 3.09,
+                                    "pass": 0,
+                                    "net": 0,
+                                    "rate": 0,
+                                    "students": [
+                                        {
+                                            "name": "ASEL �ZT�RK",
+                                            "schoolNumber": 169,
+                                            "true": 3,
+                                            "false": 2,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        },
+                                        {
+                                            "name": "EL�F METE",
+                                            "schoolNumber": 49,
+                                            "true": 2,
+                                            "false": 3,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "din": {
+                            "true": 2.09,
+                            "false": 7.83,
+                            "pass": 0.09,
+                            "net": 0.23,
+                            "rate": 2.32,
+                            "subjects": [
+                                {
+                                    "name": "Kader ve Kaza Kavramı",
+                                    "true": 2.09,
+                                    "false": 7.83,
+                                    "pass": 0.09,
+                                    "net": 0,
+                                    "rate": 0,
+                                    "students": [
+                                        {
+                                            "name": "ASEL �ZT�RK",
+                                            "schoolNumber": 169,
+                                            "true": 5,
+                                            "false": 5,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        },
+                                        {
+                                            "name": "EL�F METE",
+                                            "schoolNumber": 49,
+                                            "true": 2,
+                                            "false": 8,
+                                            "pass": 0,
+                                            "net": 0,
+                                            "rate": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

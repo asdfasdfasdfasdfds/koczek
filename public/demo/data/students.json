@@ -1,0 +1,12 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Fatih Emre",
+            "number": "611",
+            "class": "8/D",
+            "successRatio": "50",
+            "progress": "50.00%"
+        }
+    ]
+}
